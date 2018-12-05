@@ -1,1 +1,4 @@
-before add the config file into the User, you must add the g++ into path
+1. create the config file with the end of .sublime-build
+2. then add this file in ~\Sublime Text 3\Packages\User
+3. then you can change build system to complie and exec.
+
